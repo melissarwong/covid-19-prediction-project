@@ -1,2 +1,2 @@
 # covid-19-prediction-project
-Predicted a region’s political leaning based on COVID-19 statistics of US counties.
+Predicted a US counties' political leanings based on COVID-19 statistics.
